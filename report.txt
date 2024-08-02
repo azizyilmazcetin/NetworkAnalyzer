@@ -1,0 +1,6 @@
+Network Traffic Analysis Report
+Generated on: 2024-08-01 18:13:29.149686
+
+Anomalies Detected:
+Port 80 has high traffic: 150 packets
+Port 443 has high traffic: 120 packets
